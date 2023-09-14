@@ -1,3 +1,5 @@
+![logo Novexus](https://github.com/Kelly002/Modelo_de_Churn_Challenge/blob/main/identidade-visual.rar)
+
 # Modelo_de_Churn_Challenge
 
 Neste projeto vamos desenvolver um modelo de classificação para clientes que podem abandonar ou não a empresa Novex, ou seja, que podem resalizar um Churn.
