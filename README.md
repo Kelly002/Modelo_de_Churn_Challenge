@@ -1,4 +1,3 @@
-![logo Novexus](https://github.com/Kelly002/Modelo_de_Churn_Challenge/blob/main/identidade-visual.rar)
 
 # Modelo_de_Churn_Challenge
 
