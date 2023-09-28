@@ -6,7 +6,7 @@ Para isso, vamos separar os estudos em três 3 semanas.
 
 Na primeira semana, realizaremos a extração e a limpeza da base de dados, conseguindo com isso extrair alguns insights como:
 
-  O sexo não influência a questão do Chunr
+  * O sexo não influência a questão do Chunr
 
   Clientes que são mais antigos tendem a permanecer na empresa
 
